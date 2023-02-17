@@ -15,27 +15,27 @@ app.use(json());
 let todos = [
 	{
 		id: nanoid(),
-		title: 'todo 1',
+		title: 'Todo1',
+		completed: false,
+	},
+	{
+		id: nanoid(),
+		title: 'Todo2',
 		completed: true,
 	},
 	{
 		id: nanoid(),
-		title: 'todo 2',
+		title: 'Todo3',
 		completed: false,
 	},
 	{
 		id: nanoid(),
-		title: 'todo 3',
-		completed: false,
+		title: 'Todo4',
+		completed: true,
 	},
 	{
 		id: nanoid(),
-		title: 'todo 4',
-		completed: false,
-	},
-	{
-		id: nanoid(),
-		title: 'todo 5',
+		title: 'Todo5',
 		completed: false,
 	},
 ];
@@ -72,7 +72,7 @@ app.delete('/todos/:id', (req, res) => {
 	}
 
 	res.send(todos);
-	
+
 });
 
 const PORT = 7000;
