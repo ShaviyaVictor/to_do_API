@@ -9,11 +9,13 @@ The API is a dead basic node.js/express server. Clone the repo and run the follo
 - npm run server
 - check its running by going to browser/postman
 
+[@shaviyavictor](https://bio.link/shaviya)
+
 `localhost:7000/todos`
 
 ## Acknowledgments
 
-* [@shaviyavictor](https://bio.link/shaviya)           
+* About [NaN0-1D](https://zelark.github.io/nano-id-cc/)           
 * [@Chris Blakely](https://www.youtube.com/watch?v=fiesH6WU63I&list=PLaebUsP3fWHuY7LpRHYmst5FFrrMYaaLR&index=3)          
 
 ### Author
