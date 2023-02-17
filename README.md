@@ -8,3 +8,19 @@ The API is a dead basic node.js/express server. Clone the repo and run the follo
 - check its running by going to browser/postman
 
 `localhost:7000/todos`
+
+## Acknowledgments
+
+* [@shaviyavictor](https://bio.link/shaviya)           
+* [@Chris Blakely](https://www.youtube.com/watch?v=fiesH6WU63I&list=PLaebUsP3fWHuY7LpRHYmst5FFrrMYaaLR&index=3)          
+
+### Author
+
+* **Victor Shaviya**        
+  - [BioLink](https://bio.link/shaviya)       
+  - [LinkedIn](https://www.linkedin.com/in/ShaviyaVictor/)          
+  - [Instagram](https://www.instagram.com/shaviyavictor/)        
+  - [Twitter](https://twitter.com/ShaviyaVictor)        
+  
+  
+**© Victor Shaviya**.
