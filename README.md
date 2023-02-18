@@ -9,6 +9,10 @@ The API is a dead basic node.js/express server. Clone the repo and run the follo
 - npm run server
 - check its running by going to browser/postman
 
+
+The dummy API has been used in the below project, clone it and follow the instructions in the README file to get it running:          
+      - [to_do_app](https://github.com/ShaviyaVictor/to_do_app)         
+
 About [NaN0-1D](https://zelark.github.io/nano-id-cc/)
 
 `localhost:7000/todos`
